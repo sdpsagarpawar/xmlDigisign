@@ -1,4 +1,4 @@
-package xmldigisign
+package xmlDigisign
 
 import (
 	"crypto"
