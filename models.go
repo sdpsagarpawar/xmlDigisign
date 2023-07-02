@@ -1,4 +1,4 @@
-package xmldigisign
+package xmlDigisign
 
 type (
 	Signature struct {
